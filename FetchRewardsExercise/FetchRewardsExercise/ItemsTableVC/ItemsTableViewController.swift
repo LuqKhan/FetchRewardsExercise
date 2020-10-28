@@ -9,6 +9,7 @@ import UIKit
 
 class ItemsTableViewController: UITableViewController {
         
+    let dataLoader = DataLoader()
     override func viewDidLoad() {
         super.viewDidLoad()
     }
